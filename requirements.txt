@@ -1,0 +1,15 @@
+# Dépendances requises pour l'exécution du RPG
+# Tkinter est inclus dans Python standard et n'est pas listé ici.
+
+# Gestion des images et de Tkinter (PIL)
+Pillow
+
+# Gestion de la musique et du son
+pygame
+
+# Dépendances optionnelles (pour le développement et les tests)
+# Note: Ces bibliothèques sont utilisées dans les fichiers test_*.py
+unittest
+coverage
+GitPython
+git-lfs
